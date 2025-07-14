@@ -1,7 +1,9 @@
 backend/
 ├── controllers/
+│   └── authController.js
 ├── models/
+│   └── User.js
 ├── routes/
-├── middleware/
+│   └── auth.js
 ├── .env
-└── index.js
+├── index.js
