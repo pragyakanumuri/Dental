@@ -1,0 +1,6 @@
+mkdir dental-clinic-app
+cd dental-clinic-app
+mkdir backend
+cd backend
+npm init -y
+npm install express mongoose cors dotenv bcryptjs jsonwebtoken
