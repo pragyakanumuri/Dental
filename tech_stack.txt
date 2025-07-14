@@ -1,0 +1,12 @@
+MongoDB = Database
+
+Express.js = Backend framework
+
+Node.js = JavaScript runtime
+
+Mongoose = MongoDB ODM (Object Document Mapper)
+
+JWT = For login sessions
+
+bcrypt = For password hashing
+
